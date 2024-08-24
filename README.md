@@ -53,18 +53,27 @@ This project was built as part of a personal journey to deepen my knowledge and 
 Below are some screenshots and a video demonstration of the game in action:
 
 ### Screenshots
-![Intro Screen](path_to_intro_screen_image)
-*The welcoming intro screen with animated snake and game instructions.*
 
-![Gameplay](path_to_gameplay_image)
-*In-game view showing the snake, food, score, and elapsed time.*
+*(The welcoming intro screen with animated snake and game instructions.)*
+![Intro Screen](https://github.com/user-attachments/assets/debbe5d7-6bb3-4b3e-b082-e3dc8ec06118)
 
-![Game Over Screen](path_to_game_over_image)
-*The game over screen with instructions to restart or quit.*
+*(In-game view showing the snake, food, score, and elapsed time.)*
+![Gameplay](https://github.com/user-attachments/assets/621db2d1-ebfc-4574-91db-3db15fd4bbad)
+
+*(The game over screen with instructions to restart or quit.)*
+![Game Over Screen](https://github.com/user-attachments/assets/079b0253-be61-4b67-b4ff-78ae471e960b)
+
+*(The player score saving feature.)*
+![Player Score](https://github.com/user-attachments/assets/b0a7dba2-19ee-484e-98e9-187db8b7d6c3)
+
+*(The highscore screen displaying the players with the highest scores.)*
+![Highscore Screen](https://github.com/user-attachments/assets/0bb62cb1-9589-49db-8750-4502d0090150)
 
 ### Video
-[![Watch the video](path_to_video_thumbnail_image)](path_to_video_link)
-*A short video showcasing the gameplay and features.*
+
+*(A short video showcasing the gameplay and features.)*
+
+https://github.com/user-attachments/assets/f907f29d-c0d7-4c48-b95f-7f7f2d935f71
 
 ## How to Run
 
